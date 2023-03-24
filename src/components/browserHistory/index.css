@@ -1,0 +1,32 @@
+.bg-container {
+  height: 100vh;
+}
+.header-container {
+  background-color: #3367d6;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+}
+.history {
+  width: 150px;
+}
+.input-container {
+  display: flex;
+  justify-content: center;
+}
+.search {
+  padding: 10px;
+  background-color: #2850a7;
+  border: #ececec solid 1px;
+}
+.input {
+  width: 400px;
+  background-color: #2850a7;
+  padding: 10px;
+  border: #ececec solid 1px;
+  font-size: 20px;
+  color: #ececec;
+}
+.history-item-container {
+  margin: 20px;
+}

@@ -1,0 +1,12 @@
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.title-logo-container {
+  display: flex;
+  justify-content: space-between;
+}
+.image-container {
+  align-self: flex-start;
+}
